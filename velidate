@@ -1,3 +1,0 @@
-curl -X GET \
--H 'Authorization: Bearer {qjt61qXecT/hSc+vhEUC4dWJTu2nglzt1DeM8M9TuckNBdF+3XSoE+Tn1oGzAPjjlbhBba5qW9ea+hpIAjKmXJG8ps8cHM4KxO1mUnj+gejLYw2hnRG7hJ66e1yewuXJ7f2jGX6/TQKY6v7/DW/c/gdB04t89/1O/w1cDnyilFU=}' \
-https://api.line.me/v1/oauth/verify
